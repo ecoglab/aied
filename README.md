@@ -7,7 +7,7 @@
 ###### More information can be found in the following publications: [Horak et al., 2015](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9600/96000N/Implementation-and-evaluation-of-an-interictal-spike-detector/10.1117/12.2189248.full?SSO=1) and ADD NEW CITATION HERE.
 
 
-## Brief description of notebooks:
+## Brief description of notebooks
 #### "preprocessing.ipynb"
 ###### This notebook was created to preprocess intracranial EEG data. Input is a .EDF iEEG file. Output is a .csv file containing the preprocessed iEEG.
 #### "aied.ipynb" 
