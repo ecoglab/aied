@@ -16,5 +16,5 @@
 #### "sample_eegdata.csv" 
 ###### This file contains preprocessed iEEG where rows correspond to unique channels and columns correspond to time points (fs = 200). 
 #### "sample_finalspikes.csv"
-###### This file contains the final spikes detected by our automated detector from the sample EEG file. 
+###### This file contains the IEDs detected from the sample EEG file with our automated detector. 
 
