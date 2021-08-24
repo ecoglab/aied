@@ -1,6 +1,6 @@
 # Dartmouth ECoG Lab Automated Spike Detector
 
-#### This repository contains: (1) a generic intracranial EEG (iEEG) preprocessing pipeline, and (2) an automated intracranial spike detector called "AiED: Artificial intelligence for the detection of intracranial interictal epileptiform discharges"
+#### This repository contains an automated intracranial spike detector called "AiED: Artificial intelligence for the detection of intracranial interictal epileptiform discharges". 
 
 
 ###### Our automated method consists of a template-matching algorithm and convolutional neural network (CNN) for the detection of intracranial IEDs. The final network had an F1-score of 0.95 (95% CI: 0.91-0.98) and an average Area Under the Receiver Operating Characteristic of 0.98 (95% CI: 0.96-1.00). 
