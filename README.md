@@ -8,6 +8,8 @@
 
 
 ## Brief description of notebooks
+#### These python notebooks can be accessed using [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/#). Please refer to the JupyterLab documentation for install and starting instructions. 
+
 #### "preprocessing.ipynb"
 ###### This notebook was created to preprocess intracranial EEG data. Input is a .EDF iEEG file. Output is a .csv file containing the preprocessed iEEG.
 #### "aied.ipynb" 
