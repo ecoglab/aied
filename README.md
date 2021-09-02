@@ -13,7 +13,7 @@
 #### "preprocessing.ipynb"
 ###### This notebook was created to preprocess intracranial EEG data. Input is a .EDF iEEG file. Output is a .csv file containing the preprocessed iEEG.
 #### "aied.ipynb" 
-###### This notebook contains our automated spike detector. Before using this detector, please download the "model_aied.pt" file, containing our pretrained network, and indicate where this file is stored in the detector notebook.
+###### This notebook contains our automated IED detector. Before using this detector, please download the "model_aied.pt" file, containing our pretrained network, and indicate where this file is stored in the detector notebook.
 
 ## Sample data
 #### "sample_eegdata.csv" 
